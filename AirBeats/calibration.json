@@ -1,0 +1,46 @@
+{
+  "flex": [
+    {
+      "name": "Flex1",
+      "straight_adc": 291.3,
+      "bent_adc": 260.35,
+      "is_calibrated": true
+    },
+    {
+      "name": "Flex2",
+      "straight_adc": 289.95,
+      "bent_adc": 268.325,
+      "is_calibrated": true
+    },
+    {
+      "name": "Flex3",
+      "straight_adc": 305.95,
+      "bent_adc": 269.3,
+      "is_calibrated": true
+    },
+    {
+      "name": "Flex4",
+      "straight_adc": 322.175,
+      "bent_adc": 278.675,
+      "is_calibrated": true
+    }
+  ],
+  "pressure": {
+    "zero_adc": 0.0,
+    "max_adc": 1023.0,
+    "is_calibrated": false
+  },
+  "imu": {
+    "accel_bias": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "gyro_bias": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "is_calibrated": false
+  }
+}
